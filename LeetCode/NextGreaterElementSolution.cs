@@ -4,6 +4,9 @@ using System.Text;
 
 namespace LeetCode
 {
+    /// <summary>
+    /// 给定两个没有重复元素的数组 nums1 和 nums2 ，其中nums1 是 nums2 的子集。找到 nums1 中每个元素在 nums2 中的下一个比其大的值。
+    /// </summary>
     class NextGreaterElementSolution
     {
         public int[] NextGreaterElementWithStackAndHashMao(int[] nums1, int[] nums2)

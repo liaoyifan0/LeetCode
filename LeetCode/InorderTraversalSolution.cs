@@ -12,6 +12,9 @@ namespace LeetCode
         public TreeNode(int x) { val = x; }
     }
 
+    /// <summary>
+    /// 二叉树中序遍历（迭代）
+    /// </summary>
     class InorderTraversalSolution
     {
         public IList<int> InorderTraversal(TreeNode root)

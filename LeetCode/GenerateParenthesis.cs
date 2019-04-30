@@ -4,6 +4,9 @@ using System.Text;
 
 namespace LeetCode
 {
+    /// <summary>
+    /// 生成所有可能的合法括号组合
+    /// </summary>
     public class GenerateParenthesis
     {
         //回溯算法

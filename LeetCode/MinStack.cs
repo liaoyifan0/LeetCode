@@ -5,6 +5,9 @@ using System.Text;
 
 namespace LeetCode
 {
+    /// <summary>
+    /// 最小栈
+    /// </summary>
     public class MinStack
     {
         private Stack<int> stack;

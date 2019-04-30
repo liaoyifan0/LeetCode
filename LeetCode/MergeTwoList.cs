@@ -4,6 +4,9 @@ using System.Text;
 
 namespace LeetCode
 {    
+    /// <summary>
+    /// 合并两个有序链表
+    /// </summary>
     class MergeTwoList
     {
         public class ListNode

@@ -4,6 +4,9 @@ using System.Text;
 
 namespace LeetCode
 {
+    /// <summary>
+    /// 生成所有合法的二叉搜索树
+    /// </summary>
     class GenerateTreesSolution
     {
         public IList<TreeNode> GenerateTrees(int n)
